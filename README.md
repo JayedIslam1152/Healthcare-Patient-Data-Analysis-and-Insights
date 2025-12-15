@@ -110,7 +110,7 @@ The current implementation focuses on ML readiness, with model training and eval
 
 ## 👤 Author
 
-## **Jayed**
+**Jayed**
 Data Analyst | Machine Learning 
 
 ---
